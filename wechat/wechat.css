@@ -1,0 +1,11 @@
+.add {
+    height: 800px;
+    width: 400px;
+    background-color: wheat;
+    text-align: center;
+    font-size: 50px;
+    background-image: url(https://raw.githubusercontent.com/ZengWangtu/ZVVT/main/fanpai_files/wechat.png);
+    background-size: 400px 800px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
